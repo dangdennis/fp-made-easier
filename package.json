@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "purty": "^7.0.0"
+  },
+  "devDependencies": {
+    "purescript": "^0.14.2",
+    "spago": "^0.20.3"
+  }
+}
